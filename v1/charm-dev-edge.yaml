@@ -19,7 +19,7 @@ runs-on:
 - s390x
 
 instances:
-  charm-dev:
+  charm-dev-edge:
     image: 22.04
     limits:
       min-cpu: 2
